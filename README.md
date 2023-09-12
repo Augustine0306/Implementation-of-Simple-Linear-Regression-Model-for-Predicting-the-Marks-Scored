@@ -76,12 +76,43 @@ print("RMSE= ",rmse)
 */
 ```
 ## Output:
-![image](https://github.com/Augustine0306/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404460/9ac2175d-9770-41a6-ab7d-b1b1d90ebfa1)
-![image](https://github.com/Augustine0306/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404460/e94d11d5-c9e8-4286-895a-d41067146253)
-![image](https://github.com/Augustine0306/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404460/d3350966-a5a6-433c-9b57-a125ebe93e43)
-![image](https://github.com/Augustine0306/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404460/8ce9820d-de28-4066-b469-a53cc1aa0200)
-![image](https://github.com/Augustine0306/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404460/b98cfbed-41db-451a-b418-0f0b13208ae2)
-![image](https://github.com/Augustine0306/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404460/799b0a64-f77d-4919-91ae-201873c685ad)
+
+df.head()
+
+![ML21](https://github.com/Augustine0306/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404460/986bc3dc-933b-44de-b395-6b6fdabc1d85)
+
+df.tail()
+
+![ML22](https://github.com/Augustine0306/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404460/50d78701-bb39-4192-8f5e-62030b4b311d)
+
+Array value of X
+
+![ML23](https://github.com/Augustine0306/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404460/28e8da05-2fa7-48e9-a5be-1cbd76c65c0e)
+
+Array value of Y
+
+![ML24](https://github.com/Augustine0306/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404460/85a72245-69dd-4cec-8318-6e9b9dbcad68)
+
+Values of Y prediction
+
+![ML25](https://github.com/Augustine0306/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404460/5e9d4d92-0e3c-45f0-ba7d-cdbd34522dcc)
+
+Array values of Y test
+
+![ML26](https://github.com/Augustine0306/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404460/b97748d7-0d30-4dc3-906c-73fb1543f474)
+
+Training Set Graph
+
+![ML27](https://github.com/Augustine0306/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404460/b0902126-84c1-4a44-a3ba-a1058327ae0a)
+
+Test Set Graph
+
+![ML28](https://github.com/Augustine0306/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404460/e8fb8366-048e-4537-bc82-73589187b9a0)
+
+Values of MSE, MAE and RMSE
+
+![ML29](https://github.com/Augustine0306/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404460/66d3990d-da8d-4f93-88f5-49f9f735a6c7)
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
